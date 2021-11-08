@@ -9,8 +9,8 @@
 #include "LITTLEFS.h"
 //#include <wifisetup.h>
 
-const char* ssid = "HOMENET";
-const char* haslo = "!@#$5678Dom";
+const char* ssid = "SSID";
+const char* haslo = "password";
 const char* nazwa = "LicznikEn";
 
 const long ILPOM = 500; 
