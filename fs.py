@@ -1,2 +1,2 @@
 Import("env")
-env.Replace (MKSPIFFSTOOL = "C:/Piotr/Platformio/mklittlefs/mklittlefs.exe")
+env.Replace (MKSPIFFSTOOL = "c:/util//mklittlefs.exe")
